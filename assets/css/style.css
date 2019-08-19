@@ -1,0 +1,72 @@
+.top-border {
+    border: solid 5px;
+    position: relative;
+    top: -8px;
+    left: 8px;
+    width: 98%; 
+}
+
+.border-list-items > ul > li > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    /* background-color: aqua; */
+
+}
+
+.border-list-items > ul > li {
+    display: inline-block;
+    position: relative;
+    left: 1008px;    
+}
+
+.border-list-items {
+    /* background-color: brown; */
+    position: relative;
+    top: -10px;
+    left: 8px;
+    width: 98.75%;
+}
+
+.logo {
+    position: relative;
+    left: 8px;
+    top: -26px;
+}
+
+.navbar > ul > li > a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    font-size: 25px;
+    /* background-color: aqua; */
+
+}
+
+.navbar > ul > li {
+    display: inline-block;
+    position: relative;
+    left: 200px;    
+}
+
+.navbar > ul > li > input {
+    width: 260px;
+    height: 20px;
+    border-radius: 10px;
+    position: relative;
+    left: 120px;
+}
+
+.navbar {
+    /* background-color: brown; */
+    position: relative;
+    top: -90px;
+    left: 8px;
+    width: 98.75%;
+}
+
+.video {
+    position: relative;
+    top: -75px;
+    left: -8px;
+}
